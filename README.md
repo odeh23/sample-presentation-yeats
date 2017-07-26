@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task #5 - Presentation
 
 This assignment involves the creation of a well-formed presentation for use on screen. You also have the option of making your presentation run as a narrated self-running presentation with embedded audio. 
@@ -42,3 +43,7 @@ You will need to do the following for this assignment to be considered complete.
 6. Upload the audio files and insert the source links in each section and fragment.
 
 For this you will need to use audio manipulation software, preferrably Audacity.
+=======
+# sample-presentation-yeats
+A reveal.js presentation based on the poem The Second Coming by William Butler Yeats
+>>>>>>> 2bc5886260221ebbc1cd27278850782366687d13
